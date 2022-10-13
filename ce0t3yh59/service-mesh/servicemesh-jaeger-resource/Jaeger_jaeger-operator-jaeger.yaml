@@ -33,7 +33,7 @@ spec:
       es:
         index-prefix: jaeger
         username: taco-fluentbit
-        password: tacoword
+        password: password
         tls.ca: /etc/ssl/certs/tls.crt
         server-urls: https://eck-elasticsearch-es-http.lma.svc:9200
   query:
